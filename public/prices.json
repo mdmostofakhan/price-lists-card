@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Featuer job Membership",
+        "price": 80,
+        "features": [
+            "Gym access", "Locker romm", "Unlimited classes", "1 personal training session"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Premium Membership",
+        "price": 100,
+        "features": [
+            "Gym access", "Locker romm", "Unlimited classes", "1 personal training session"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Corporate Membership",
+        "price": 110,
+        "features": [
+            "Gym access", "Locker romm", "Unlimited classes", "1 personal training session"
+        ]
+    }
+   
+]
